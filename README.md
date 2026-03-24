@@ -1,7 +1,7 @@
 <h1 align="center"> SpatialBoost: Enhancing Visual Representation <br> through Language-Guided Reasoning
 </h1>
 
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2602.04476-b31b1b.svg)](https://arxiv.org/abs/2602.04476)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2603.22057-b31b1b.svg)](https://arxiv.org/abs/2603.22057)&nbsp;
 
 <div align="center">
   <a href="https://rootyjeon.github.io/" target="_blank">Byungwoo&nbsp;Jeon</a><sup>1*</sup> &ensp; <b>&middot;</b> &ensp;
@@ -12,7 +12,7 @@
   <sup>1</sup> KAIST &emsp; <sup>2</sup>RLWRLD &emsp; <sup>3</sup>NAVER Cloud &emsp; <br>
   * Equal contribution
 </div>
-<h3 align="center">[<a href="https://rootyjeon.github.io/spatial-boost/">project page</a>]&emsp;[<a href="https://arxiv.org/abs/2602.04476">arXiv</a>]</h3>
+<h3 align="center">[<a href="https://rootyjeon.github.io/spatial-boost/">project page</a>]&emsp;[<a href="https://arxiv.org/abs/2603.22057">arXiv</a>]</h3>
 <br>
 
 This repository is the official implementation of SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning.
@@ -26,9 +26,9 @@ This repository is the official implementation of SpatialBoost: Enhancing Visual
 
 ```bibtex
 @article{jeon2026spatialboost,
-  title={SpatialBoost: Enhancing Visual Representation <br> through Language-Guided Reasoning},
-  author={Jeon, Byungwoo and Jeong, Yoonwoo and Lee, Hyunseok and Cho, Minsu and Shin, Jinwoo},
-  journal={arXiv preprint arXiv:2602.04476},
+  title={SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning},
+  author={Jeon, Byungwoo and Kim, Dongyoung and Jang, Huiwon and Kim, Insoo and Shin, Jinwoo},
+  journal={arXiv preprint arXiv:2603.22057},
   year={2026}
 }
 ```
